@@ -18,8 +18,11 @@ praticando e evoluindo, sempre aberto a oportunidades!!!
 <ul>
   É possível entrar em contato comigo
   nos seguintes endereços:
-  <li>Email: <a href="danilloribeirojs@gmail.com">aaa</a></li>
+  <li>Meu email📩: <a href="danilloribeirojs@github.com">danilloribeirojs@github.com</li>
+  <li></li>
 </ul>
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+
 <!---
 danillojs/danillojs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
