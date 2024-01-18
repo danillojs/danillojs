@@ -18,7 +18,7 @@ praticando e evoluindo, sempre aberto a oportunidades!!!
 <ul>
   É possível entrar em contato comigo
   nos seguintes endereços:
-  <li>Meu email📩: <a href="danilloribeirojs@github.com">danilloribeirojs@github.com</li>
+  <li>Meu email📩: <a href="https://criarmeulink.com.br/u/1705621276">danilloribeirojs@github.com</li>
 </ul>
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 
