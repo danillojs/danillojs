@@ -2,18 +2,18 @@
   Olá, bem vindo ao meu github!🤓🖖🏻
 </h1>
 <ul>
-  <li>Estudante de programação</li>
-  <li>Ex militar</li>
-  <li>Tecnólogo em administração</li>
+  <li>Estudante de programação👨🏻‍💻</li>
+  <li>Ex militar💂🏻‍♂️</li>
+  <li>Tecnólogo em administração📃</li>
 </ul>
 <p>
-Me chamo Danillo sou estudante de programação, atualmente focado em
-Javascript. Busco viver de tecnologia e contribuir com essa revolução 
-pois acredito que essa é a profissão do futuro. 
-Estou sentindo que estou ficando para trás em não 
-aproveitar as oportunidades que a tecnologia está 
-proporcionando. Nesse github vou postar alguns projetos pessoais
-praticando e evoluindo, sempre aberto a oportunidades!!!
+    Me chamo Danillo sou estudante de programação, atualmente focado em
+    Javascript. Busco viver de tecnologia e contribuir com essa revolução 
+    pois, acredito que essa é a profissão do futuro. 
+    Senti que estou ficando para trás em não 
+    aproveitar as oportunidades que a tecnologia está 
+    proporcionando. Nesse github vou postar alguns projetos pessoais
+    praticando e evoluindo, sempre aberto a oportunidades!!!
 </p>
 <hr>
 <h3>Skills</h3>
@@ -28,9 +28,6 @@ praticando e evoluindo, sempre aberto a oportunidades!!!
   </a>
   <a href="">
     <img src="https://skills.thijs.gg/icons?i=linkedin">
-  </a>
-  <a href="https://wa.me/qr/HMLKVM75MZPDG1">
-    <img src="https://skills.thijs.gg/icons?i=whatsapp">
   </a>
 </div>
   <!---
