@@ -6,7 +6,7 @@
   <li>Ex militar💂🏻‍♂️</li>
   <li>Tecnólogo em administração📃</li>
 </ul>
-<p>
+<p align="justify">
     Me chamo Danillo sou estudante de programação, atualmente focado em
     Javascript. Busco viver de tecnologia e contribuir com essa revolução 
     pois, acredito que essa é a profissão do futuro. 
