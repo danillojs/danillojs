@@ -26,7 +26,7 @@
   <a href="https://www.instagram.com/423_danillo?igsh=MWVrY3Eza2w2ZnhkeQ==">
     <img src="https://skills.thijs.gg/icons?i=instagram">
   </a>
-  <a href="">
+  <a href="https://www.linkedin.com/mwlite/profile/me?trk=p_mwlite_feed_updates-secondary_nav">
     <img src="https://skills.thijs.gg/icons?i=linkedin">
   </a>
 </div>
