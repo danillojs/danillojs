@@ -30,6 +30,8 @@
     <img src="https://skills.thijs.gg/icons?i=linkedin">
   </a>
 </div>
+<h3>Visitas no perfil</h3>
+<img src="https://komarev.com/ghpvc/?username=danillojs"/>
   <!---
 danillojs/danillojs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
